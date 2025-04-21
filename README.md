@@ -1,1 +1,1 @@
-This is a OpenFrameworks Addon to interpret Asesprite data
+A parser/renderer for Aseprite animations in OpenFrameworks 
